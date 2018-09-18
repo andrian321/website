@@ -1,0 +1,163 @@
+body{
+
+	
+}
+
+.jumbotron {
+   
+   background-color: #4bbef0;
+   color: white;
+   height: auto;
+   margin-bottom: 50px;
+   padding: 0px;
+   margin-bottom: 50px;
+   }
+
+
+
+   .jumbotron img{
+
+
+
+   	width: 100%;
+
+   	height: 100%;
+
+  
+   
+   }
+
+
+ #dprd{
+
+height: 100%; 
+
+width: 100%;
+
+  	
+  }
+
+
+#beranda:hover{
+color: white;
+	
+
+	background-color: #3dbbff;
+}
+
+#tentang:hover{
+color: white;
+	
+
+	background-color: #3dbbff;
+}
+
+
+
+
+#profil:hover{
+color: white;
+	
+
+	background-color: #3dbbff;
+}
+
+#link_galeri:hover{
+
+
+color: white;
+	
+
+	background-color: #3dbbff;
+}
+
+
+
+#galeri{
+
+
+	height: auto;
+
+}
+
+
+section{
+
+	
+}
+
+hr{
+
+	background: black;
+
+	
+	width: 245px;
+	border: solid #4b4e54 2px;
+
+
+}
+
+#guru:hover{color: white;
+	
+
+	background-color: #3dbbff;}
+
+	#siswa:hover{color: white;
+	
+
+	background-color: #3dbbff;}
+
+	#mos{
+
+width: 100%;
+height: 100%;
+
+}
+
+
+	#bukber{
+
+width: 100%;
+height: 100%;
+
+}
+
+
+	#zoo{
+
+width: 100%;
+height: 100%;
+
+}
+
+.contact{
+margin-top: 50px;
+background-color: #eee;
+
+padding-bottom: 20px;
+}
+
+
+footer{
+	
+	background-color: #575a60;
+	color: white;
+}
+
+a{
+
+	text-decoration: none;
+	color: white;
+	margin-left: 10px;
+}
+
+a:hover{
+	color: #2faff9;
+	text-decoration: none;
+}
+
+#sosmed{
+
+	margin-bottom: 10px;
+}
+
